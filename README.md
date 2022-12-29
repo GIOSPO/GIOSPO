@@ -1,10 +1,12 @@
 ## <div align="center">Olá seja bem vindo! 👋</div>
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/gif-27312712" data-width="100%">
+  <img src="https://tenor.com/pt-BR/view/gif-27312712" width="100%">
   </p>
+  
   <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
+
 <div align="center"><br>
   <a href="https://github.com/giospo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giospo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
