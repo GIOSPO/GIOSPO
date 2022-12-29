@@ -14,7 +14,7 @@
     <img align="center" alt="gio-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="gio-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="gio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-    <img align="right" alt="" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFV601bitw/keemSTOEIb-zKiX3Ic7QtQ/watch?utm_content=DAFV601bitw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+    <img align="right" alt="" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFWGIlX9GM/F2j4CUis-w45revaeuxTkw/edit?utm_content=DAFWGIlX9GM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
   </div>
 </div>
 
