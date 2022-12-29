@@ -1,6 +1,6 @@
 ## <div align="center">Olá seja bem vindo! 👋</div>
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/gif-27312712" width="100%">
+  <img src="https://tenor.com/pt-BR/view/gif-27312712" data-width="100%">
   </p>
   <div class="tenor-gif-embed" data-postid="27312712" data-share-method="host" data-width="100%" data-aspect-ratio="3.3422818791946307">
   <a href="https://tenor.com/view/gif-27312712">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
