@@ -1,6 +1,6 @@
 ## <div align="center">Olá seja bem vindo! 👋</div>
 <p align="center">
-  <img src="https://media1.tenor.com/images/8832d19c38f5609c74d1e87aeb27b783/tenor.gif?itemid=27312712" width="50%">
+  <img src="https://media1.tenor.com/images/8832d19c38f5609c74d1e87aeb27b783/tenor.gif?itemid=27312712" width="100%">
 </p>
 
 <div align="center"><br>
