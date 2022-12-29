@@ -1,5 +1,7 @@
 ## <div align="center">Olá seja bem vindo! 👋</div>
-  <img src="https://tenor.com/pt-BR/view/gif-27312712" width="350">
+<p align="center">
+  <img src="https://tenor.com/pt-BR/view/gif-27312712" width="100%">
+  </p>
 
 <div align="center"><br>
   <a href="https://github.com/giospo">
