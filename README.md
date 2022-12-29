@@ -1,4 +1,5 @@
 ## <div align="center">Olá seja bem vindo! 👋</div>
+  <img src="https://tenor.com/pt-BR/view/gif-27312712" width="350">
 
 <div align="center"><br>
   <a href="https://github.com/giospo">
@@ -14,7 +15,6 @@
     <img align="center" alt="gio-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="gio-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="gio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img src="https://tenor.com/pt-BR/view/gif-27312712" width="350">
   </div>
 </div>
 
