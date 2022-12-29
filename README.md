@@ -1,6 +1,7 @@
 <div style="display: inline_block">
   <div align="center">
-  <img src="https://media1.tenor.com/images/cf7cc5a937fbbbfd0f9cff131d81f64a/tenor.gif?itemid=27312811" width="50%">
+  <!--<img src="https://media1.tenor.com/images/cf7cc5a937fbbbfd0f9cff131d81f64a/tenor.gif?itemid=27312811" width="50%">-->
+  <img src="https://media1.tenor.com/images/3f19332c64d80a9856e821eab72462d7/tenor.gif?itemid=27312864" width="50%">
 </div>
 
 <div align="center"><br>
