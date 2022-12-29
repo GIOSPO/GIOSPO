@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://tenor.com/pt-BR/view/gif-27312712" data-width="100%">
   </p>
-  <div class="tenor-gif-embed" data-postid="27312712" data-share-method="host" data-width="100%" data-aspect-ratio="3.3422818791946307">
-  <a href="https://tenor.com/view/gif-27312712">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+  <p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 <div align="center"><br>
   <a href="https://github.com/giospo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giospo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
