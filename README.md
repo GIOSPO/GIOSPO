@@ -1,6 +1,4 @@
 ## <div align="center">Olá seja bem vindo! 👋</div>
-<img align="right" alt="" height="150" style="border-radius:50px;" 
-src="https://www.canva.com/design/DAFV601bitw/keemSTOEIb-zKiX3Ic7QtQ/watch?utm_content=DAFV601bitw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 <div align="center"><br>
   <a href="https://github.com/giospo">
@@ -15,7 +13,8 @@ src="https://www.canva.com/design/DAFV601bitw/keemSTOEIb-zKiX3Ic7QtQ/watch?utm_c
     <img align="center" alt="gio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
     <img align="center" alt="gio-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="gio-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-    <img align="center" alt="gio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
+    <img align="center" alt="gio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+    <img align="right" alt="" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFV601bitw/keemSTOEIb-zKiX3Ic7QtQ/watch?utm_content=DAFV601bitw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   </div>
 </div>
 
