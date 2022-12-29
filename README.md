@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/images/8832d19c38f5609c74d1e87aeb27b783/tenor.gif?itemid=27312712" width="50%">
 </p>
 
-<div align="center"><br>
+<div align="center">
   <a href="https://github.com/giospo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giospo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giospo&layout=compact&langs_count=7&theme=github_dark"/>
