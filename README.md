@@ -1,6 +1,6 @@
 <div style="display: inline_block">
   <div align="center">
-  <img src="https://media1.tenor.com/images/8832d19c38f5609c74d1e87aeb27b783/tenor.gif?itemid=27312712" width="50%">
+  <img src="blob:https://tenor.com/650557ab-175e-4db8-b0fa-f9c939f29682" width="50%">
 </div>
 
 <div align="center"><br>
