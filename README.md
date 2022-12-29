@@ -1,4 +1,6 @@
 ## <div align="center">Olá seja bem vindo! 👋</div>
+<img align="right" alt="" height="150" style="border-radius:50px;" 
+src="https://www.canva.com/design/DAFV601bitw/keemSTOEIb-zKiX3Ic7QtQ/watch?utm_content=DAFV601bitw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 <div align="center"><br>
   <a href="https://github.com/giospo">
